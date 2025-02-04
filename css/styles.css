@@ -1,0 +1,31 @@
+h1{
+    color:red; /* le point virgule indique la fin de l'instruction*/
+    background-color : yellow;
+    font-size: 100px;
+
+}/* ici cela s'appliquera a toutes les balises h1*/
+
+p {
+    color:blue;
+}
+
+body {
+    /*background-color:rgb(139, 98, 23);*/
+    background-image: url(../image/pp.png);
+    background-size: cover;/*permet de couvrir le fond meme si l'image est trop petite*/
+}
+
+p.rouge{
+    color:red;
+}
+
+p.vert{
+    color:green;
+}
+
+a{
+    background-color: aqua;
+    margin: 20px;
+    padding:5px;
+
+}

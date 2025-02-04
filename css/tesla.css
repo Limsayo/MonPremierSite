@@ -1,0 +1,48 @@
+*{
+    margin: auto;
+}
+
+div.foto{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-Y-Desktop-Global-v2.png);
+    height: 100vh;
+    background-size: cover;
+    color: white
+}
+
+ h1.Model_Y {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+ h2.Model_Y{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom :500px;
+}
+
+ul.conduite {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+}
+
+li.bougo {
+    display: flex;
+    justify-content: center;
+    margin:15px;
+    background-color: rgb(51, 51, 213);
+
+}
+
+li.boudro {
+
+    margin: 15px;
+}
+
+h5.achats{
+   
+
+}

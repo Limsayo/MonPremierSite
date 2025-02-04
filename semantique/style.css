@@ -1,0 +1,30 @@
+/*!!! MENU DE NAVIGATION !!!*/
+*{
+    margin: auto;
+}
+header nav {
+display: flex;
+}
+
+header nav li {
+    list-style-type: none;
+    margin: 10px;
+}
+
+header nav li a {
+    text-decoration: none;
+}
+
+/*!!! SECTIONS !!! */
+
+section#apropos {
+    background-color: aquamarine;
+}/*permet d'identifier le tag attribué a la section */
+
+section#galerie {
+    background-color: blueviolet;
+}
+
+section#contact {
+    background-color: bisque;
+}

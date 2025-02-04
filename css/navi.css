@@ -1,0 +1,29 @@
+*{
+    margin: auto;
+}
+
+ul {
+    background-color: rgb(141, 35, 3);
+    display : flex; /*fait une ligne de la liste */
+    justify-content: center;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+ul li{
+    background-color: rgb(229, 200, 16);
+    margin: 15px;
+    list-style-type: none; /* enleve les points dans la liste a points */
+    border-radius: 5px;
+}
+
+ul li:hover{
+    color:red;
+    background-color: white;
+}
+
+ul li a {
+    color: rgb(141, 35, 3);
+    padding:  15px;
+    margin: 20px
+}
